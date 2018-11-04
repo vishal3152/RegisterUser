@@ -1,0 +1,15 @@
+{
+  "name": "registeruser",
+  "version": "1.0.0",
+  "description": "use to register user",
+  "main": "registerUser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal3152@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-ca-client": "1.3.0",
+    "fabric-client": "1.3.0"
+  }
+}
